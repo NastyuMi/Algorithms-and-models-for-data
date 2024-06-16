@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-06-17">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="nastyuha.sanna" label="nastyuha.sanna" />
+      <node id="topalovtema11799" label="Топалов Артём" />
+      <node id="irabiluk2002" label="Ирина Билык" />
+      <node id="_stasgrinchak_" label="Стас" />
+      <node id="maria.averman" label="MARI • model • UGC • lifestyle" />
+      <node id="belovol_31799" label="Сергей Беловол" />
+      <node id="mick_an_n" label="Липовий чай" />
+      <node id="_vladyslav.pm_" label="Vladyslav" />
+      <node id="boyko_alyona" label="" />
+      <node id="yaana_korneliuk" label="Yana Kornelyuk" />
+      <node id="_usyaakiy_" label="Дима Усякий" />
+      <node id="nn_dmm" label="⛓ Анастасия Сергеевна ⛓" />
+      <node id="kristinaanmh" label="Kristina" />
+      <node id="eerema13" label="Nikita Eremeev" />
+      <node id="sanya.ny" label="" />
+      <node id="andrey_kotsienko" label="Андрей" />
+      <node id="ivanys_99" label="Ігор" />
+      <node id="spokoinee_nekuda13" label="Просто Саша" />
+      <node id="zharkowo" label="Жарков Владимир" />
+      <node id="vl.lck" label="Владислав Луцик" />
+      <node id="_m___vv_" label="M W" />
+    </nodes>
+    <edges>
+      <edge source="nastyuha.sanna" target="topalovtema11799" id="0" />
+      <edge source="nastyuha.sanna" target="irabiluk2002" id="1" />
+      <edge source="nastyuha.sanna" target="_stasgrinchak_" id="2" />
+      <edge source="nastyuha.sanna" target="maria.averman" id="3" />
+      <edge source="nastyuha.sanna" target="belovol_31799" id="4" />
+      <edge source="nastyuha.sanna" target="mick_an_n" id="5" />
+      <edge source="nastyuha.sanna" target="_vladyslav.pm_" id="6" />
+      <edge source="nastyuha.sanna" target="boyko_alyona" id="7" />
+      <edge source="nastyuha.sanna" target="yaana_korneliuk" id="8" />
+      <edge source="nastyuha.sanna" target="_usyaakiy_" id="9" />
+      <edge source="nastyuha.sanna" target="nn_dmm" id="10" />
+      <edge source="nastyuha.sanna" target="kristinaanmh" id="11" />
+      <edge source="nastyuha.sanna" target="eerema13" id="12" />
+      <edge source="nastyuha.sanna" target="sanya.ny" id="13" />
+      <edge source="nastyuha.sanna" target="andrey_kotsienko" id="14" />
+      <edge source="nastyuha.sanna" target="ivanys_99" id="15" />
+      <edge source="nastyuha.sanna" target="spokoinee_nekuda13" id="16" />
+      <edge source="nastyuha.sanna" target="zharkowo" id="17" />
+      <edge source="nastyuha.sanna" target="vl.lck" id="18" />
+      <edge source="nastyuha.sanna" target="_m___vv_" id="19" />
+      <edge source="topalovtema11799" target="_stasgrinchak_" id="20" />
+      <edge source="irabiluk2002" target="_stasgrinchak_" id="21" />
+      <edge source="_stasgrinchak_" target="mick_an_n" id="22" />
+      <edge source="boyko_alyona" target="yaana_korneliuk" id="23" />
+    </edges>
+  </graph>
+</gexf>
